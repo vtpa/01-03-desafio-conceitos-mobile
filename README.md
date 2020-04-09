@@ -13,4 +13,4 @@ Segue GIF da aplicação funcionando:
 
 __Imagem__
 
-<img src="assets/app-react-native.gif" title="It works!" />
+<img src="assets/app-react-native.gif" height="400" title="It works!" />
