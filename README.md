@@ -1,8 +1,10 @@
 # 3<sup>rd</sup> Challenge - GoStack Rocketseat Bootcamp
-## Mobile Concepts with React Native
-<p align="center"><img src="assets/RocketSeat-Bootcamp.jpg" align="center" title="Rocketseat GoStack Bootcamp" /></p>
 
----
+<p align="center">
+  <b><i>Mobile Concepts with React Native</i></b><br />
+  <img src="assets/RocketSeat-Bootcamp.jpg" align="center" title="Rocketseat GoStack Bootcamp" /></p>
+
+
 ## 🦾 Challenge
 
 Create an application to practice what has been learned in React Native!
@@ -31,7 +33,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 
 ## ℹ How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
